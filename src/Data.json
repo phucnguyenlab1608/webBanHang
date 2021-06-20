@@ -1,0 +1,79 @@
+[
+    {
+        "id":1,
+        "title":"Khoai lang nhật",
+        "price":"20000",
+        "image":"https://vcdn1-giadinh.vnecdn.net/2013/12/21/anh-9211-1387615838.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=aH8uqPtb6sC-q8TJWLB0dA",
+        "species": "Vegetables",
+        "numberOfProductsSold":100,
+        "classify":"Rau ăn lá"
+        
+    },
+    {
+        "id":2,
+        "title":"Khoai lang tím",
+        "price":"20000",
+        "image":"https://vcdn1-giadinh.vnecdn.net/2013/12/21/anh-9211-1387615838.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=aH8uqPtb6sC-q8TJWLB0dA",
+        "species": "Vegetables",
+        "numberOfProductsSold":100,
+        "classify":"Rau ăn lá"
+    },
+    {
+        "id":3,
+        "title":"Khoai lang mĩ",
+        "price":"20000",
+        "image":"https://vcdn1-giadinh.vnecdn.net/2013/12/21/anh-9211-1387615838.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=aH8uqPtb6sC-q8TJWLB0dA",
+        "species": "Vegetables",
+        "numberOfProductsSold":100,
+        "classify":"Rau ăn hoa quả"
+        
+    },
+    {
+        "id":4,
+        "title":"Khoai lang việt nam",
+        "price":"20000",
+        "image":"https://vcdn1-giadinh.vnecdn.net/2013/12/21/anh-9211-1387615838.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=aH8uqPtb6sC-q8TJWLB0dA",
+        "species": "Vegetables",
+        "numberOfProductsSold":100,
+        "classify":"Rau ăn thân củ"
+        
+    },
+    {
+        "id":5,
+        "title":"Rau cải",
+        "price":"70000",
+        "image":"https://vcdn1-giadinh.vnecdn.net/2013/12/21/anh-9211-1387615838.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=aH8uqPtb6sC-q8TJWLB0dA",
+        "species": "fruit",
+        "numberOfProductsSold":100
+        
+    },
+    {
+        "id":6,
+        "title":"Bắp cải",
+        "price":"60000",
+        "image":"http://product.hstatic.net/1000191320/product/b_p_c_i_tr_ng_trf_grande.jpg",
+        "species": "fruit",
+        "numberOfProductsSold":100
+        
+    },
+    {
+        "id":7,
+        "title":"Bắp cải trắng",
+        "price":"1000",
+        "image":"http://product.hstatic.net/1000191320/product/b_p_c_i_tr_ng_trf_grande.jpg",
+        "species": "fruit",
+        "numberOfProductsSold":100
+        
+    },
+    {
+        "id":8,
+        "title":"Bắp cải đỏ",
+        "price":"30000",
+        "image":"http://product.hstatic.net/1000191320/product/b_p_c_i_tr_ng_trf_grande.jpg",
+        "species": "fruit",
+        "numberOfProductsSold":100
+        
+    }
+
+
+]
